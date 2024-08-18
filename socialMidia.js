@@ -3,7 +3,7 @@ const botaoInst = document.querySelector("#botaoInst")
 const botaoFaceb = document.querySelector("#botaoFaceb")
 
 botaoWhats.addEventListener("click",()=>{
-    const numeroTelefone = "556296962073"
+    const numeroTelefone = "5562996016109"
     const menssagem = "olá, venho do site da sua empresa"
     const whatsappUrl = `https://wa.me/${numeroTelefone}?text=${encodeURIComponent(menssagem)}`
      location.href = whatsappUrl
