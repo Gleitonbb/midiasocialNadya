@@ -59,7 +59,7 @@ content{
     margin-bottom: 20px;
     width: 200px;
     height: 200px;
-    border: 2px solid rgba(0, 0, 0, 0.377);
+    border: 2px solid rgba(17, 228, 35, 0.377);
     background-color: rgba(0, 0, 0, 0.384);
     border-radius: 100px;
 
@@ -75,7 +75,7 @@ content{
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background-color: rgba(146, 143, 143, 0.507);
+    background-color: rgba(195, 220, 236, 0.774);
     position: fixed;
     top: 0px;
     left: 0px;
