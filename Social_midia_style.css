@@ -38,6 +38,7 @@ content{
     border-radius: 15px;
    border: 2px solid rgb(35, 219, 18);
    background-color: rgb(63, 144, 182);
+   box-shadow: 5px 0px 5px rgba(0, 0, 0, 0.452);
    margin-left: 8px;
    width: 150px;
    height: 54px;
@@ -46,7 +47,7 @@ content{
    color: rgb(252, 252, 252);
 }
 .botoes:hover{
-    box-shadow: 5px 0px 5px rgba(0, 0, 0, 0.514);
+    box-shadow: 3px 0px 3px rgba(0, 0, 0, 0.514);
     width: 150px;
     height: 40;
     margin-left: 18px;
@@ -59,8 +60,9 @@ content{
     margin-bottom: 20px;
     width: 200px;
     height: 200px;
+    box-shadow: 5px 0px 5px rgba(0, 0, 0, 0.514);
     border: 2px solid rgba(17, 228, 35, 0.377);
-    background-color: rgba(0, 0, 0, 0.384);
+    background-color: rgb(26, 129, 160);
     border-radius: 100px;
 
     
