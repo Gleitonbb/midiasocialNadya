@@ -47,7 +47,7 @@ content{
 }
 .botoes:hover{
     box-shadow: 5px 0px 5px rgba(0, 0, 0, 0.514);
-    width: 140px;
+    width: 150px;
     height: 40;
     margin-left: 18px;
 }
